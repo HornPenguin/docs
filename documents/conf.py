@@ -50,7 +50,7 @@ html_theme = 'sphinxawesome_theme'
 
 html_theme_options = {
     "nav_include_hidden": False,
-    "extra_header_links" = {"홈": "https:://www.hornpenguin.com"}
+    "extra_header_links" : {"홈": "https:://www.hornpenguin.com"}
 
 }
 
