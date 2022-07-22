@@ -48,6 +48,11 @@ exclude_patterns = []
 html_permalinks_icon = '<span>#</span>'
 html_theme = 'sphinxawesome_theme'
 
+html_theme_options = {
+    "nav_include_hidden": False,
+    "extra_header_links" = {"홈": "https:://www.hornpenguin.com"}
+
+}
 
 # Add any paths that contain custom static files (such as style sheets) here,
 # relative to this directory. They are copied after the builtin static files,
